@@ -1,0 +1,20 @@
+From: Amazon.com <order-update@amazon.com>
+Subject: Your order has shipped
+SPF: pass
+DKIM: pass
+DMARC: pass
+Domain-Age: 9000
+
+Hello Sarah,
+
+Thank you for your order. Your package has shipped and is on the way.
+
+You can track your order here: https://www.amazon.com/orders
+
+Estimated delivery is Tuesday. If you have any questions, visit our help center.
+
+Amazon Customer Service
+410 Terry Avenue North, Seattle, WA
+Phone: +1 888 280 4331
+
+Unsubscribe from shipping notifications here.

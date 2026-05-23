@@ -1,0 +1,18 @@
+From: Amazon Rewards <noreply@amaz0n-prizes.top>
+Subject: CONGRATULATIONS! You are a winner!
+SPF: fail
+DKIM: fail
+DMARC: fail
+Domain-Age: 2
+
+Dear Customer,
+
+Congratulations! You have been selected as the winner of our monthly prize. You won a free gift card worth $1000.
+
+This is a limited time offer, only today. Claim your prize now before it expires.
+
+Click here to claim: http://amaz0n-prizes.top/claim and http://tinyurl.com/freegift99
+
+Thousands of people have already claimed. Don't miss out!
+
+Amazon Rewards Team

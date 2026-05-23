@@ -1,0 +1,49 @@
+{
+    "attack_patterns": {
+        "brand_impersonation": {
+            "name": "Brand Impersonation",
+            "description": "Attackers are pretending to be a known company to gain your trust.",
+            "ibm_reference": "Social Engineering -> Phishing -> Brand Spoofing"
+        },
+        "credential_harvesting": {
+            "name": "Credential Harvesting",
+            "description": "Attackers are trying to steal your login credentials.",
+            "ibm_reference": "Social Engineering -> Phishing -> Credential Theft"
+        },
+        "malware_delivery": {
+            "name": "Malware Delivery",
+            "description": "The email contains a dangerous attachment that could infect your computer.",
+            "ibm_reference": "Malware -> Trojan -> Email Attachment Delivery"
+        },
+        "business_email_compromise": {
+            "name": "Business Email Compromise",
+            "description": "Attackers are pretending to be a CEO or manager to trick employees.",
+            "ibm_reference": "Social Engineering -> Phishing -> CEO Fraud"
+        },
+        "prize_scam": {
+            "name": "Prize / Lottery Scam",
+            "description": "Attackers promise a fake prize to trick you into giving information.",
+            "ibm_reference": "Social Engineering -> Phishing -> Advance Fee Scam"
+        },
+        "invoice_fraud": {
+            "name": "Invoice Fraud",
+            "description": "Attackers send a fake invoice to trick you into making a payment.",
+            "ibm_reference": "Social Engineering -> Phishing -> Payment Fraud"
+        },
+        "spear_phishing": {
+            "name": "Spear Phishing",
+            "description": "A targeted attack aimed at a specific person or organization.",
+            "ibm_reference": "Social Engineering -> Phishing -> Targeted Attack"
+        },
+        "vishing_setup": {
+            "name": "Vishing Setup",
+            "description": "The email asks you to call a phone number to continue the scam by voice.",
+            "ibm_reference": "Social Engineering -> Vishing -> Callback Phishing"
+        },
+        "generic_phishing": {
+            "name": "Generic Phishing",
+            "description": "A general phishing email trying to trick you into an unsafe action.",
+            "ibm_reference": "Social Engineering -> Phishing -> Generic"
+        }
+    }
+}

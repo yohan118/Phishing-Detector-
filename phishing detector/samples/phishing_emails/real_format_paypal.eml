@@ -1,0 +1,26 @@
+From: PayPal Support <support@paypa1.com>
+To: victim@gmail.com
+Subject: URGENT: Your account suspended!
+Date: Fri, 23 May 2026 06:00:00 +0000
+MIME-Version: 1.0
+DKIM-Signature: v=1; a=rsa-sha256; d=paypa1.com; s=default
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of support@paypa1.com does not designate permitted sender)
+       dkim=fail header.i=@paypa1.com;
+       dmarc=fail (p=REJECT sp=REJECT dis=REJECT) header.from=paypa1.com
+Received-SPF: fail
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We detected a unusual login on your account. Your account have been suspended immediately.
+
+You must verify your account within 24 hours or it will be permanently deleted.
+
+Please click here to confirm your password: http://paypa1.ru/login
+
+Also visit: http://bit.ly/3xK9mP2
+
+Act now before it is too late.
+
+PayPal Security Team

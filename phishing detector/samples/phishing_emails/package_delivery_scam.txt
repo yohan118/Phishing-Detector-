@@ -1,0 +1,16 @@
+From: DHL Delivery <delivery@dhl-shipping-update.tk>
+Subject: Your package is waiting - action required
+SPF: fail
+DKIM: none
+DMARC: fail
+Domain-Age: 8
+
+Dear User,
+
+Your package could not be delivered. You must confirm your details immediately to reschedule delivery before it is returned.
+
+Click here to verify your account: http://192.168.45.10/dhl/track
+
+This is your final notice. Respond now or the package will be sent back.
+
+DHL Support

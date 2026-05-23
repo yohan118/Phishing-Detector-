@@ -1,0 +1,18 @@
+From: Netflix <info@netflix-billing.com>
+Subject: Please update your payment details
+SPF: pass
+DKIM: fail
+DMARC: pass
+Domain-Age: 400
+
+Hello Daniel,
+
+We were unable to process your last payment. Please update your payment information to keep your subscription active.
+
+You can manage your account here: https://netflix-billing.com/account
+
+If you have already updated your details you can ignore this message.
+
+The Netflix Team
+100 Winchester Circle, Los Gatos, CA
+Unsubscribe from these emails here.

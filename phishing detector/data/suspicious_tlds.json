@@ -1,0 +1,50 @@
+{
+    "suspicious_tlds": [
+        ".ru",
+        ".cn",
+        ".tk",
+        ".ml",
+        ".ga",
+        ".cf",
+        ".gq",
+        ".xyz",
+        ".top",
+        ".work",
+        ".click",
+        ".loan",
+        ".win",
+        ".bid",
+        ".download",
+        ".stream",
+        ".racing",
+        ".date",
+        ".kim",
+        ".country"
+    ],
+    "trusted_tlds": [
+        ".com",
+        ".org",
+        ".net",
+        ".gov",
+        ".edu",
+        ".io",
+        ".co.uk",
+        ".de",
+        ".fr",
+        ".ca"
+    ],
+    "url_shorteners": [
+        "bit.ly",
+        "tinyurl.com",
+        "t.co",
+        "goo.gl",
+        "ow.ly",
+        "is.gd",
+        "buff.ly",
+        "adf.ly",
+        "shorte.st",
+        "cutt.ly",
+        "rb.gy",
+        "tiny.cc"
+    ]
+}

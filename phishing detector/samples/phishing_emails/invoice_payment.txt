@@ -1,0 +1,17 @@
+From: Accounts Payable <billing@invoice-payments-online.ga>
+Subject: Overdue invoice payment required immediately
+SPF: fail
+DKIM: none
+DMARC: fail
+Domain-Age: 19
+Attachment: invoice_urgent.pdf.exe
+
+Dear Client,
+
+Please find attached your overdue invoice. Payment is required immediately to avoid penalty.
+
+This is urgent. Your account will be blocked if payment is not made within 48 hours.
+
+Update payment here: http://invoice-payments-online.ga/pay
+
+Billing Department

@@ -1,0 +1,20 @@
+From: GitHub <noreply@github.com>
+Subject: Your monthly GitHub newsletter
+SPF: pass
+DKIM: pass
+DMARC: pass
+Domain-Age: 6500
+
+Hi Alex,
+
+Here is what happened this month in your repositories. We have some new features we think you will like.
+
+Read the full update on our blog: https://github.blog/changelog
+
+Thanks for being part of the community.
+
+The GitHub Team
+88 Colin P Kelly Jr Street, San Francisco, CA
+Call us at +1 877 448 4820
+
+To unsubscribe from these emails, click here.

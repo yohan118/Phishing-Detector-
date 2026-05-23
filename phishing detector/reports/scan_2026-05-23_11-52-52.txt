@@ -1,0 +1,49 @@
+==================================================
+PHISHING EMAIL DETECTOR - FULL REPORT
+==================================================
+Scan time: 2026-05-23 11:52:52
+
+EMAIL DETAILS
+------------------------------
+From: Microsoft Account <account-security-noreply@microsoft.com>
+Subject: Your password reset request
+
+SENDER ANALYSIS
+------------------------------
+Display Name: Microsoft Account
+Actual Email: account-security-noreply@microsoft.com
+Domain: microsoft.com
+Domain Age: 11000 days
+SPF: PASS
+DKIM: PASS
+DMARC: PASS
+
+CONTENT ANALYSIS
+------------------------------
+  [X] Grammar/spelling errors detected: 3
+
+URL ANALYSIS
+------------------------------
+URLs found: 1
+  https://account.microsoft.com/security
+     -> URL shortener (hides real destination)
+
+ATTACHMENT ANALYSIS
+------------------------------
+Attachments: 0
+
+PSYCHOLOGICAL TRIGGERS
+------------------------------
+
+==================================================
+VERDICT: LEGITIMATE EMAIL
+Confidence: 89%
+Risk Level: SAFE
+Legitimacy Score: 100/100
+==================================================
+
+WHAT TO DO
+------------------------------
+1. This email looks safe based on the checks
+2. Still be careful if it asks for personal information
+3. When unsure, contact the company directly using their official website
