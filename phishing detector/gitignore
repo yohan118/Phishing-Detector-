@@ -1,0 +1,265 @@
+# =====================================================
+# MASTER .gitignore — Python Projects
+# Covers: Cybersecurity | Networking | CV Processing
+# =====================================================
+
+
+# =========================
+# Python — Always Ignore
+# =========================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+wheels/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+
+# =========================
+# Secrets & Environment
+# =========================
+
+# NEVER push these — contains passwords/API keys
+.env
+.env.local
+.env.production
+.env.staging
+.env.*
+
+# Config files with credentials
+config.ini
+config.yaml
+config.yml
+secrets.json
+credentials.json
+
+
+# =========================
+# Database
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+*.sql.bak
+
+
+# =========================
+# Cybersecurity Projects
+# =========================
+
+# Private keys & certificates — NEVER push
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.der
+*.csr
+*.ca
+
+# SSH keys
+id_rsa
+id_rsa.pub
+id_dsa
+id_ed25519
+known_hosts
+
+# Wordlists & dictionaries (huge files)
+*.wordlist
+wordlists/
+rockyou.txt
+
+# Exploit scripts & payloads (sensitive)
+payloads/
+exploits/
+shells/
+*.shellcode
+
+# Hash files
+*.hash
+*.hashes
+hashes/
+
+# Vulnerability scan reports
+reports/
+*.report
+
+# Reverse engineering
+*.exe
+*.bin
+*.elf
+*.dll
+*.so
+
+
+# =========================
+# Networking Projects
+# =========================
+
+# Packet captures (very large files)
+*.pcap
+*.pcapng
+*.cap
+*.dmp
+captures/
+
+# Network scan results
+nmap_output/
+scan_results/
+*.nmap
+*.gnmap
+
+# Network config files with sensitive data
+*.cfg
+*.conf
+topology/
+network_maps/
+
+# Wireshark profiles
+*.sharkd
+
+# VPN configs
+*.ovpn
+*.vpn
+
+
+# =========================
+# CV / Resume Processing
+# =========================
+
+# Uploaded CVs and resumes (personal data)
+uploads/
+resumes/
+cvs/
+*.pdf
+*.docx
+*.doc
+
+# Processed output files
+output/
+processed/
+parsed_cvs/
+extracted_data/
+
+# ML models (large files)
+models/
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.onnx
+*.joblib
+
+# Training datasets (large + sensitive)
+datasets/
+data/raw/
+data/processed/
+*.csv
+*.json.bak
+*.parquet
+
+# NLP resources
+*.bin
+embeddings/
+vectors/
+
+# Temporary processing files
+temp/
+tmp/
+*.tmp
+*.temp
+
+
+# =========================
+# Logs & Debug Files
+# =========================
+
+*.log
+*.logs
+logs/
+debug/
+error.txt
+
+
+# =========================
+# OS Generated Files
+# =========================
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+
+# =========================
+# IDEs & Editors
+# =========================
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+
+# =========================
+# Docker (if used)
+# =========================
+
+.dockerignore
+docker-compose.override.yml
+
+
+# =========================
+# Miscellaneous
+# =========================
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Compressed files (usually large)
+*.zip
+*.tar.gz
+*.rar
+*.7z
